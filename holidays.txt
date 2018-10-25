@@ -7,3 +7,5 @@ master change
 more master change
 
 hotfix 1
+
+hotfix 2
