@@ -1,5 +1,7 @@
 HOME
 
+ADD NEW
+
 ABOUT
 
 NEWS
